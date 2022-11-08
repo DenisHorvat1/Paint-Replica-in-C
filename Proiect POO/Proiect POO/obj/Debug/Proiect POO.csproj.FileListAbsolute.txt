@@ -1,0 +1,24 @@
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe.config
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.pdb
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Form1.resources
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Properties.Resources.resources
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.exe
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.pdb
+C:\Users\denis\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Form2.resources
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe.config
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\bin\Debug\Proiect POO.pdb
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Form1.resources
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Form2.resources
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Properties.Resources.resources
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.exe
+C:\Users\denis\Desktop\Proiect POO\Proiect POO\obj\Debug\Proiect POO.pdb
